@@ -17,7 +17,7 @@ Team: know who you are.
 
 Business: know why you are.
 *   That one salient metric: GROWTH
-*   All the other Startup metrics: [a16z: 16 metrics](https://a16z.com/2015/08/21/16-metrics/) and [a16z: 16 more metrics](https://a16z.com/2015/09/23/16-more-metrics/)
+*   All the other Startup metrics: [a16z: 16 metrics](https://a16z.com/2015/08/21/16-metrics/) and [a16z: 16 more metrics](https://a16z.com/2015/09/23/16-more-metrics/) maybe this: https://www.youtube.com/watch?v=Yc472ZgJ1ww
 *   Go-to-Market metrics: [an Andressen Horowitz Bootcamp](https://www.slideshare.net/a16z/go-to-market-bootcamp-for-startups)
 *   [Take Ownership of your Metrics](http://yankeesabralimey.tumblr.com/post/127563634610/take-ownership-of-your-metrics)
 *   Network Effects: [Andressen Horowitz](https://www.slideshare.net/a16z/network-effects-59206938/4-Because_understanding_network_effects_helps)
