@@ -38,3 +38,4 @@ Regulation.
 Rengineering - DevOps, SecOps.
 Pillars of Fintech (Security, Identity, Data, Store of Value).
 Global Growth.
+Fintech Sandbox: http://fintechsandbox.org/data-partners
