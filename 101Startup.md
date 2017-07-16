@@ -13,6 +13,7 @@ Team: know who you are.
 *  Open Source Seed Financing Documents
       *  [AVCAL: Subscription, Shareholder, Employee, IP Assignment](https://www.avcal.com.au/resources/open-source-seed-financing-documents)
       *  [LegalVision: about AVCAL's Open Source Docs](https://legalvision.com.au/what-are-the-avcal-open-source-seed-financing-documents/)
+ * Venture Deals (Brad Feld)
 
 Business: know why you are.
 *   That one salient metric: GROWTH
