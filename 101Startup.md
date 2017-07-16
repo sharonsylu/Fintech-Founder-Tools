@@ -19,18 +19,21 @@ Business: know why you are.
 *   All the other Startup metrics: [a16z: 16 metrics](https://a16z.com/2015/08/21/16-metrics/) and [a16z: 16 more metrics](https://a16z.com/2015/09/23/16-more-metrics/)
 *   Go-to-Market metrics: [an Andressen Horowitz Bootcamp](https://www.slideshare.net/a16z/go-to-market-bootcamp-for-startups)
 *   [Take Ownership of your Metrics](http://yankeesabralimey.tumblr.com/post/127563634610/take-ownership-of-your-metrics)
+*   Network Effects: [Andressen Horowitz](https://www.slideshare.net/a16z/network-effects-59206938/4-Because_understanding_network_effects_helps)
 *   Other Fintech Metrics
 
-# Talk to Customers, Cut Code.
+Resources:
+* Fred Wilson
+* a16z podcast, the Hard things about the Hard things.
+* Andressen Horowitz [SlideShare](https://www.slideshare.net/a16z/presentations)
+* FirstRound Capital Review
+* SilverLake
 
-Talk to Customers (Validate Concept). 
-* Are you FIN'tech' or are you TECH'fin'? 
-
-Know your Reg.
-
-Cut Code (MVP to start billing).
-* Are you FIN'tech' or are you TECH'fin'? 
-
-Rengineering.
-
-Entity - Australia --> The World.
+Other Deep Dive Ideas: 
+Are you FIN'tech' or are you TECH'fin'? 
+Talk to Customers (validate concept). 
+Cut Code (build MVP). 
+Regulation.
+Rengineering - DevOps, SecOps.
+Pillars of Fintech (Security, Identity, Data, Store of Value).
+Global Growth.
