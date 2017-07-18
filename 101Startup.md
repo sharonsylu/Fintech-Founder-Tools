@@ -22,6 +22,7 @@ Business: know why you are.
 *   [Take Ownership of your Metrics](http://yankeesabralimey.tumblr.com/post/127563634610/take-ownership-of-your-metrics)
 *   Network Effects: [Andressen Horowitz](https://www.slideshare.net/a16z/network-effects-59206938/4-Because_understanding_network_effects_helps)
 *   Other Fintech Metrics
+*   Open Source projects - commercialising (particularly if you have an open core or protocol) https://github.com/nayafia/lemonade-stand#dual-license
 
 Resources:
 * Fred Wilson
