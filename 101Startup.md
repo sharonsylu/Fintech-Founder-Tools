@@ -40,3 +40,7 @@ Rengineering - DevOps, SecOps.
 Pillars of Fintech (Security, Identity, Data, Store of Value).
 Global Growth.
 Fintech Sandbox: http://fintechsandbox.org/data-partners
+
+
+Awesome Lists
+* Awesome https://github.com/sindresorhus/awesome
